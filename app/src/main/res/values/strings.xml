@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CompanyProvider</string>
+    <string name="contentProvider">Content Provider</string>
+    <string name="empName">Emp. Name</string>
+    <string name="position">Position</string>
+    <string name="Save">SAVE</string>
+    <string name="load">LOAD</string>
+</resources>
