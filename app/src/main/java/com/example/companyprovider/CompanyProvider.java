@@ -18,7 +18,7 @@ public class CompanyProvider extends ContentProvider {
     private static final String TABLE_NAME="EMPLOYEE";
     private static final String DB_NAME="COMPANY";
     private static final int DB_VERSION=1;
-    private static final String ID="ID";
+    public static final String ID="ID";
     public static final String EMP_NAME="EMP_NAME";
     public static final String POS="POSITION";
 
